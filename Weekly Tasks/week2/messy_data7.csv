@@ -1,0 +1,25 @@
+ ID , Name , Age , City , Marks 
+1,Ali,20.0,Lahore,85.0
+2,Usman,21.0, Islamabad ,90.0
+3,Ahmed,22.0,Karachi,
+4,Sara,20.0,Lahore,78.0
+5,Ayesha,,karachi,88.0
+6,Hamza,23.0,Peshawar,72.0
+7,Bilal,21.0, lahore,81.0
+8,Fatima,22.0,Islamabad,95.0
+9,Omar,,Peshawar,67.0
+10,Zainab,20.0,Karachi,89.0
+11,Hassan,24.0,Lahore,76.0
+12,Mariam,21.0,Islamabad,
+13,Ali,20.0,Lahore,85.0
+14,Usman,21.0,ISLAMABAD,90.0
+15,Sana,,Karachi,84.0
+16,Danish,22.0,,73.0
+17,Noor,23.0,Peshawar ,91.0
+18,Kashif,20.0,lahore,
+19,Hina,22.0,Islamabad,87.0
+20,Raza,, Karachi ,79.0
+21,,21.0,Lahore,82.0
+22,Mehwish,20.0,Peshawar,88.0
+23,Arslan,24.0,,69.0
+24,Sadia,22.0,ISLAMABAD,93.0

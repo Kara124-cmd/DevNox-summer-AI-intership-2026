@@ -1,0 +1,24 @@
+
+DATA CLEANING SUMMARY
+---------------------
+
+Original rows: 24
+Rows after cleaning: 24
+
+Duplicate rows removed: 0
+
+Missing values before cleaning: 10
+Missing values after cleaning: 0
+
+Cleaning performed:
+- Removed extra spaces from column names
+- Converted column names to lowercase
+- Replaced spaces with underscores
+- Removed duplicate rows
+- Filled numeric missing values with mean
+- Filled text missing values with "Unknown"
+- Removed extra spaces from text
+- Converted text to title case
+
+Output file:
+cleaned_data.csv

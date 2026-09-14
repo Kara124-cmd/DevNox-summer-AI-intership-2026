@@ -1,0 +1,22 @@
+
+
+OWASP Top 10 
+1. Broken Access Control — This happens when a user can access or change something that they should not be allowed to access.
+
+2. Cryptographic Failures — Sensitive information can be exposed when passwords or other important data are not properly encrypted or protected.
+
+3. Injection — An attacker can insert harmful commands or code into an application when user input is not properly checked.
+
+4. Insecure Design — Security problems can happen when an application is designed without considering possible attacks and misuse from the beginning.
+
+5. Security Misconfiguration — Leaving default settings, unnecessary services, or weak security configurations can give attackers an easy way into the system.
+
+6. Vulnerable and Outdated Components — Using old or insecure libraries and software can make the whole application vulnerable to known attacks.
+
+7. Identification and Authentication Failures — Weak login, password, or session handling can allow attackers to pretend to be another user.
+
+8. Software and Data Integrity Failures — If software updates, plugins, or important data are not properly verified, attackers may replace them with malicious versions.
+
+9. Security Logging and Monitoring Failures — If security events are not properly recorded and monitored, attacks may happen without being noticed quickly.
+
+10. Server-Side Request Forgery (SSRF) — An attacker can trick the server into sending requests to internal or restricted resources that the attacker cannot access directly.
