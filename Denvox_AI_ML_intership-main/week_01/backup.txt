@@ -1,0 +1,22 @@
+Student Information 
+--------------
+Name: Ali
+Age: 24
+CGPA: 3.7
+
+
+Name: Ahmed
+Age: 26
+CGPA : 3.90
+
+Name: Ahmed
+Age: 26
+CGPA : 3.90
+
+Name: Ahmed
+Age: 26
+CGPA : 3.90
+
+Name: Ahmed
+Age: 26
+CGPA : 3.90

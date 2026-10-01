@@ -1,0 +1,21 @@
+
+DATA CLEANING REPORT
+--------------------
+
+Original rows: 1020
+Final rows: 1020
+
+Duplicates removed: 0
+
+Missing Age values filled: 0
+Missing Gender values filled: 1020
+
+Formatting fixes:
+- Column names standardized
+- Gender values standardized
+- City names standardized
+- Salary commas removed
+- Salary converted to numeric
+
+Output file:
+cleaned_data.csv

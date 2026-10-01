@@ -1,0 +1,28 @@
+Handwritten Character Recognition Project
+
+Objective:
+The project aims to build a deep learning model that can recognize handwritten digits from images.
+
+Project Work:
+1. The MNIST dataset was used for training and testing.
+2. The dataset contains 60,000 training images and 10,000 test images.
+3. Each image is 28x28 pixels in grayscale format.
+4. The pixel values were normalized from 0 to 255 into the range 0 to 1 for better model performance.
+5. The images were reshaped to include a channel dimension so they could be used in a CNN.
+
+Model Used:
+A Convolutional Neural Network (CNN) was built with multiple convolution layers, max pooling layers, a flatten layer, and a dense output layer.
+
+Training Process:
+The model was compiled using the Adam optimizer and Sparse Categorical Crossentropy loss.
+Training was performed for 5 epochs with a batch size of 64 and a validation split of 20%.
+
+Expected Project Output:
+- The model learns to identify handwritten digits from 0 to 9.
+- The training and validation accuracy improve as the model learns.
+- The model is evaluated on the test dataset to measure accuracy and loss.
+- A sample image is passed through the trained model for prediction.
+- The trained model is saved as digit-recognizer.h5.
+
+Final Result:
+The project successfully builds a CNN-based handwritten digit recognition system that can predict the digit present in an image.

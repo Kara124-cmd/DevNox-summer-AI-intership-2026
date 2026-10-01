@@ -1,0 +1,16 @@
+names:
+- handgun
+- knife
+- pistol
+- rifle
+- shotgun
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: weapon-detection-lin4o
+  url: https://universe.roboflow.com/finalyrproject-ui6lv/weapon-detection-lin4o/dataset/1
+  version: 1
+  workspace: finalyrproject-ui6lv
+test: ../test/images
+train: ../train/images
+val: ../valid/images
